@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Angular, NestJS, MongoDB, Docker, Unit Testing**
 
-- 💬 Ask me about **React, JavaScript, Express**
+- 💬 Ask me about **React, JavaScript, Express, MySQL**
 
 - 📫 How to reach me **ti.thomsan@gmail.com**
 
